@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.box{
+.container{
 	display:flex;
 	width: 300px;
 	height: 100px;
@@ -9,7 +9,7 @@
 	padding: 10px 10px 10px 40px;
 	background-color: gray;
 }
-.box1{
+.green{
 	width: 60px;
 	height:60px;
 	border-style: solid;
@@ -19,7 +19,7 @@
 	padding: 10px 10px 10px 10px;
 	text-align:center;
 }
-.box2{
+.yellow{
 	width: 60px;
 	height:60px;
 	border-style: solid;
@@ -29,7 +29,7 @@
 	padding: 10px 10px 10px 10px;
 	text-align:center;
 }
-.box3{
+.red{
 	width: 60px;
 	height:60px;
 	border-style: solid;
