@@ -15,7 +15,7 @@
 	border-style: solid;
 	border-radius:100px;
 	align-items: center;
-	background-color: green;
+	background-color: red;
 }
 .box2{
 	width: 60px;
@@ -23,7 +23,7 @@
 	border-style: solid;
 	border-radius:100px;
 	align-items: center;
-	background-color: yellow;
+	background-color: green;
 	
 }
 .box3{
@@ -32,6 +32,6 @@
 	border-style: solid;
 	border-radius:100px;
 	align-items: center;
-	background-color:red ;
+	background-color:yellow ;
 	
 }
